@@ -40,3 +40,19 @@ O objetivo desta aula é fazer o seguinte (Aula_03.ipynb):
 - Adicionar ao diagrama Skew-T Log-P a hodógrafa e parâmetros termodinâmicos (index Showalter, index Lifted, e outros).
 
 Nota: O arquivo "Aula_03-import-file-csv.ipynb.ipynb" acessar a arquivos .csv e faz o mesmo que o código anterior.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+# Aula_Pratica-4
+
+O objtivo desta aula é fazer o seguinte (Aula_04.ipynb):
+- Utilizar o pacote MetPy para plotar os códigos METAR. 
+- Utilizar os reportes METAR disponibilizados no seguinte link: https://thredds-test.unidata.ucar.edu/thredds/catalog/noaaport/text/metar/catalog.html
+- Elaborar um mapa de América do Sul com os modelos de estação dos reportes METAR.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+# Aula_Pratica-5
+
+O objtivo desta aula é fazer o seguinte (Aula_05.ipynb)
+- Utilizar o pacote pygrib.
+- Ler dados grib do modelo global - Global Forecast System (GFS)
+- Fazer um mapa da Pressão Reduzida ao Nível do Mar.
