@@ -56,3 +56,13 @@ O objtivo desta aula é fazer o seguinte (Aula_05.ipynb)
 - Utilizar o pacote pygrib.
 - Ler dados grib do modelo global - Global Forecast System (GFS)
 - Fazer um mapa da Pressão Reduzida ao Nível do Mar.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+# Aula_Pratica-6
+
+O objtivo desta aula é fazer o seguinte (Aula_06.ipynb)
+- Utilizar o pacote pygrib, cartopy para fazer os mapas meteorológicos.
+- Ler dados grib do modelo global - Global Forecast System (GFS)
+- Fazer mapas do campo de altura geopotencial nos níveis de 850, 500 e 250 hPa.
+- Reconhecer e trazar cristas e cavados.
+- Plotar os campos de altura geopotencial e Jato no nível de 250 hpa.
