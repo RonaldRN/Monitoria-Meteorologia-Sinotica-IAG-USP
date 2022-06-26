@@ -66,3 +66,14 @@ O objtivo desta aula é fazer o seguinte (Aula_06.ipynb)
 - Fazer mapas do campo de altura geopotencial nos níveis de 850, 500 e 250 hPa.
 - Reconhecer e trazar cristas e cavados.
 - Plotar os campos de altura geopotencial e Jato no nível de 250 hpa.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+# Aula_Pratica-7
+
+O objtivo desta aula é fazer o seguinte (Aula_07.ipynb)
+- Utilizar o pacote pygrib, cartopy e NetCDF4 para fazer os mapas meteorológicos.
+- Fazer Download de imagens de satélite GOES-16 do repositoório do Amazon.
+- Ler dados do satélite GOES-16 médiante o pacote NetCDF4. 
+- Ler dados grib do modelo global - Global Forecast System (GFS)
+- Fazer mapas utilizando a imagem de satélite do GOES-16 com dados do modelo GFS.
+- Fazer o mapa da Banda 13 do Goes-16, Pressão Reduzida ao Nível Médio do Mar e Espessura entre 500-1000 hPa.
